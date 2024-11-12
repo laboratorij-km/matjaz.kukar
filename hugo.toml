@@ -1,4 +1,4 @@
-baseURL = 'https://laboratorij-km.github.io/ime-priimek/' # change member_repository to your repository name
+baseURL = 'https://laboratorij-km.github.io/matjaz.kukar/' # change member_repository to your repository name
 languageCode = 'en-us'
 title = 'Member Hugo Template'
 theme = "member-theme"

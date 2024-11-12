@@ -1,3 +1,5 @@
+# Matjaž Kukar
+
 # Navodila za nastavitev osebne Hugo strani laboratorija
 
 V tem dokumentu so navedena navodila, kako nastaviti in uporabljati svojo Hugo stran za laboratorij. Vsak član laboratorija bo imel svojo Hugo stran, ki bo gostovana pod domeno **laboratorij-km.github.io/member_repository**.
@@ -83,8 +85,7 @@ title = "Lecturing"
 
 Tukaj so navedeni predmeti, ki jih predavam.
 
-1. [Subject 1]({{< relref "subject1.md" >}})
-2. [Subject 2]({{< relref "subject2.md" >}})
+
 ```
 
 #### Vsebina **content/lecturing/subject1.md**:
