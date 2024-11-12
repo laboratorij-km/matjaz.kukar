@@ -1,4 +1,4 @@
-# Matjaž Kukar, v0.4
+# Matjaž Kukar, v0.5
 
 # Navodila za nastavitev osebne Hugo strani laboratorija
 
