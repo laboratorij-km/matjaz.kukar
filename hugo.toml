@@ -1,6 +1,6 @@
 baseURL = 'https://laboratorij-km.github.io/matjaz.kukar/' # change member_repository to your repository name
 languageCode = 'en-us'
-title = 'Member Hugo Template'
+title = 'Matjaž Kukar'
 theme = "member-theme"
   
 [menu]
