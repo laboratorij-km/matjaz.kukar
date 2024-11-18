@@ -1,39 +1,41 @@
-Links
 
-[SICRIS](http://www.sicris.si/public/jqm/search_basic.aspx?lang=eng&opdescr=search&opt=2&subopt=1&code1=cmn&code2=auto&search_term=14565)
+## Associate Professor Dr. Matjaž Kukar
 
-[Website](http://lkm.fri.uni-lj.si)
+I am associate professor at [Faculty of computer and information science](http://www.fri.uni-lj.si/), in the  [Cognitive modelling laboratory](http://lkm.fri.uni-lj.si/).
+I received the Ph.D. degree in computer science in 2001 from the University of Ljubljana. I have B.Sc. and M.Sc. degrees from the same university. I am an associate professor at the Laboratory for Cognitive Modelling. My research interests include machine learning, data mining and their applications in medicine, ROC analysis, cost-sensitive learning, combinations of classifiers, classification reliability in machine learning, and spatial learning. I am the co-author of the book Machine Learning and Data Mining: Introduction to Principles and Algorithms (with Igor Kononenko) and more than 100 scientific publications in these fields.
 
-Associate Professor Dr. Matjaž Kukar
+### Contact:
+- T: +386 1 479 8235
+- E: [matjaz.kukar@fri.uni-lj.si](mailto:matjaz.kukar@fri.uni-lj.si)
+- Office: R2.04 
+- Office hours: Thursday, 10:00-11:00
 
-T: +386 1 479 8235
 
-E: [matjaz.kukar@fri.uni-lj.si](mailto:matjaz.kukar@fri.uni-lj.si)
 
-Office hours: Thursday, 10:00-11:00
+### Bibliography
+* [Selected publications]()
+* [COBISS](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20241118_235201_14565.html)
 
-Office: R2.04 
 
-Description
+### Galleries
+* [Ski jumping](https://unilj-my.sharepoint.com/:f:/g/personal/matjazk_fri1_uni-lj_si/ErW_pG19cipLqdsPvdkkRQgBgN0MaBameCZqSgH5D7uaOw?e=67B3Cz)
 
-I am associate professor at [Faculty of computer and information science](http://www.fri.uni-lj.si/ "FRI"), in the  [Cognitive modelling laboratory](http://lkm.fri.uni-lj.si/ "LKM").
-
-Classes
+### Classes
 
 *   [Data Management Technologies](https://www.fri.uni-lj.si/en/course/63226)
 *   [Databases](https://www.fri.uni-lj.si/en/course/63707)
 *   [Big data](https://www.fri.uni-lj.si/en/course/63560)
 
-Laboratory@FRI
+### Laboratory@FRI
 
 *   [Laboratory for Machine Learning and Language Technologies, Laboratory Member](https://www.fri.uni-lj.si/en/laboratory/lsujt-25)
 
-Projects
+### Projects
 
 *   [STRATIFYHF - Artificial intelligence-based decision support system for risk stratification and early detection of heart failure in primary and secondary care](/en/projects/1774)  
     (STRATIFYHF), 01.06.2023 - 31.05.2027
 
-Past projects
+### Past projects
 
 *   [Artificial intelligence and inteligent systems](/en/projects/6)  
     ARRS research programmes01.01.2015 - 31.12.2020

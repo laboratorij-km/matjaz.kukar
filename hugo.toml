@@ -19,4 +19,7 @@ theme = "member-theme"
     url = "/projects/"
     weight = 3
 
-
+  [[menu.main]]
+    name = "Bibliography"
+    url = "/bibliography/"
+    weight = 4
