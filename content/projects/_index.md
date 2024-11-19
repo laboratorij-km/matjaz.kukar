@@ -6,8 +6,7 @@ draft = false
 
 #### Current projects
 
-*   [STRATIFYHF - Artificial intelligence-based decision support system for risk stratification and early detection of heart failure in primary and secondary care](/en/projects/1774)  
-    (STRATIFYHF), 01.06.2023 - 31.05.2027
+*   [STRATIFYHF - Artificial intelligence-based decision support system for risk stratification and early detection of heart failure in primary and secondary care](), 01.06.2023 - 31.05.2027
 
 #### Past projects
 
